@@ -1,0 +1,36 @@
+[submodule "Calculator-App"]
+	path = Calculator-App
+	url = https://github.com/AayushYadavz/Calculator-App
+[submodule "To-Do-List-App"]
+	path = To-Do-List-App
+	url = https://github.com/AayushYadavz/To-Do-List-App
+[submodule "Keyboard_Press"]
+	path = Keyboard_Press
+	url = https://github.com/AayushYadavz/Keyboard_Press
+[submodule "Unlimited_Colors"]
+	path = Unlimited_Colors
+	url = https://github.com/AayushYadavz/Unlimited_Colors
+[submodule "Drum-Kit-Project-Using-Javascript"]
+	path = Drum-Kit-Project-Using-Javascript
+	url = https://github.com/AayushYadavz/Drum-Kit-Project-Using-Javascript
+[submodule "Instagram_Double_Click_Like"]
+	path = Instagram_Double_Click_Like
+	url = https://github.com/AayushYadavz/Instagram_Double_Click_Like
+[submodule "X_Follow_Unfollow_Button"]
+	path = X_Follow_Unfollow_Button
+	url = https://github.com/AayushYadavz/X_Follow_Unfollow_Button
+[submodule "Dicee_Challenge_Game"]
+	path = Dicee_Challenge_Game
+	url = https://github.com/AayushYadavz/Dicee_Challenge_Game
+[submodule "Guess_The_Number_Game"]
+	path = Guess_The_Number_Game
+	url = https://github.com/AayushYadavz/Guess_The_Number_Game
+[submodule "BMI_Calculator"]
+	path = BMI_Calculator
+	url = https://github.com/AayushYadavz/BMI_Calculator
+[submodule "Digital_Clock"]
+	path = Digital_Clock
+	url = https://github.com/AayushYadavz/Digital_Clock
+[submodule "Background_Color_Changer"]
+	path = Background_Color_Changer
+	url = https://github.com/AayushYadavz/Background_Color_Changer
