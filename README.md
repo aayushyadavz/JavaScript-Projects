@@ -20,5 +20,3 @@ This repository contains a collection of projects built using HTML, CSS, and van
 | 12  | Background Color Changer       | Tap on colored button to make background of that color | [🔗 Link](https://aayushyadavz.github.io/Background_Color_Changer/) |
 
 ## 🤝 Contributors
-
-- Ayush Yadav - [github]((https://github.com/AayushYadavz))
