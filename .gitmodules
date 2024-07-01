@@ -34,3 +34,6 @@
 [submodule "Background_Color_Changer"]
 	path = Background_Color_Changer
 	url = https://github.com/AayushYadavz/Background_Color_Changer
+[submodule "Coustomer_Counter_App"]
+	path = Coustomer_Counter_App
+	url = https://github.com/ayushyadavz/Coustomer_Counter_App
