@@ -17,7 +17,7 @@ This repository contains a collection of projects built using HTML, CSS, and van
 | 9   | Twitter follow unfollow button | Click on button to follow and unfollow  | [🔗 Link](https://aayushyadavz.github.io/X_Follow_Unfollow_Button/) |
 | 10  | BMI Calculator      | Enter your height and weight to track you are perfect or over weight | [🔗 Link](https://aayushyadavz.github.io/BMI_Calculator/) |
 | 11  | Digital Clock       | Tells you the time | [🔗 Link](https://aayushyadavz.github.io/Digital_Clock/)                               |
-| 12  | Background Color Changer       | Tap on colored button to make background of that color | [🔗 Link
+| 12  | Background Color Changer       | Tap on colored button to make background of that color | [🔗 Link]
 (https://aayushyadavz.github.io/Background_Color_Changer/) |
 | 13  | Coustomer Counter   | Helps you to count and save your counted entries | [🔗 Link](https://delightful-chimera-04a491.netlify.app/) |
 
