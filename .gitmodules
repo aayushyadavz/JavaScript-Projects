@@ -37,3 +37,6 @@
 [submodule "Coustomer_Counter_App"]
 	path = Coustomer_Counter_App
 	url = https://github.com/ayushyadavz/Coustomer_Counter_App
+[submodule "Match-Scoreboard"]
+	path = Match-Scoreboard
+	url = https://github.com/ayushyadavz/Match-Scoreboard
