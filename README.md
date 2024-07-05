@@ -20,5 +20,6 @@ This repository contains a collection of projects built using HTML, CSS, and van
 | 12  | Background Color Changer       | Tap on colored button to make background of that color | [🔗 Link](https://ayushyadavz.github.io/Background_Color_Changer/) |
 | 13  | Coustomer Counter   | Helps you to count and save your counted entries | [🔗 Link](https://delightful-chimera-04a491.netlify.app/) |
 | 14  | Match Scoreboard    | Tracks score of both the teams | [🔗 Link](https://match-scorecard.netlify.app/) |
+| 15   | Black Jack Game    | A cards game                    | [🔗 Link](https://gambling-game.netlify.app)       |
 
 ## 🤝 Contributors
