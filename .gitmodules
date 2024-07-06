@@ -43,3 +43,6 @@
 [submodule "BlackJack-Game"]
 	path = BlackJack-Game
 	url = https://github.com/ayushyadavz/BlackJack-Game
+[submodule "Submodule1"]
+	path = Submodule1
+	url = https://github.com/ayushyadavz/Password-Generator
