@@ -21,5 +21,6 @@ This repository contains a collection of projects built using HTML, CSS, and van
 | 13  | Coustomer Counter   | Helps you to count and save your counted entries | [🔗 Link](https://delightful-chimera-04a491.netlify.app/) |
 | 14  | Match Scoreboard    | Tracks score of both the teams | [🔗 Link](https://match-scorecard.netlify.app/) |
 | 15   | Black Jack Game    | A cards game                    | [🔗 Link](https://gambling-game.netlify.app)       |
+| 16  | Password Generator  | Generates strong passwords | [🔗 Link](https://strong-passwords-create.netlify.app/) 
 
 ## 🤝 Contributors
