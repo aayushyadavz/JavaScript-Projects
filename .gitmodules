@@ -46,3 +46,6 @@
 [submodule "Submodule1"]
 	path = Submodule1
 	url = https://github.com/ayushyadavz/Password-Generator
+[submodule "Leads-Tracker-Chrome-Extension"]
+	path = Leads-Tracker-Chrome-Extension
+	url = https://github.com/ayushyadavz/Leads-Tracker-Chrome-Extension
