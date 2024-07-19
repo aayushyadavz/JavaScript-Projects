@@ -23,3 +23,4 @@ This repository contains a collection of projects built using HTML, CSS, and van
 | 15   | Black Jack Game    | A cards game                    | [🔗 Link](https://gambling-game.netlify.app)       |
 | 16  | Password Generator  | Generates strong passwords | [🔗 Link](https://strong-passwords-create.netlify.app/) 
 | 17  | Unit Converter  | Converts your value in liter, meter, pounds e.t.c | [🔗 Link](https://unit-converter-app-js.netlify.app) |
+| 18  | Quote Generator  | Generates Random Breaking bad's quotes for you | [🔗 Link](https://breaking-bad-quote-generator-app.netlify.app/) |
