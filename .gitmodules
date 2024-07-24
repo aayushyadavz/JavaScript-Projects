@@ -52,3 +52,6 @@
 [submodule "Unit-Converter"]
 	path = Unit-Converter
 	url = https://github.com/ayushyadavz/Unit-Converter
+[submodule "Weather-App"]
+	path = Weather-App
+	url = https://github.com/ayushyadavz/Weather-App
