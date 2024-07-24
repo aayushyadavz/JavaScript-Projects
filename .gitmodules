@@ -55,3 +55,6 @@
 [submodule "Weather-App"]
 	path = Weather-App
 	url = https://github.com/ayushyadavz/Weather-App
+[submodule "Quote-Generator"]
+	path = Quote-Generator
+	url = https://github.com/ayushyadavz/Quote-Generator
