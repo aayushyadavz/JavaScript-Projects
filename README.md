@@ -25,3 +25,5 @@ This repository contains a collection of projects built using HTML, CSS, and van
 | 17  | Unit Converter  | Converts your value in liter, meter, pounds e.t.c | [🔗 Link](https://unit-converter-app-js.netlify.app) |
 | 18  | Quote Generator  | Generates Random Breaking bad's quotes for you | [🔗 Link](https://breaking-bad-quote-generator-app.netlify.app/) |
 | 19  | Weather App | Check your city's weather condition | [🔗 Link](https://weather-app-javascript-fetch.netlify.app/)
+| 20  | Add to Cart | Add your items in this app which you want to remember when you to to market | [🔗 Link](https://add-to-cart-mobile-application.netlify.app/)
+| 19  | Advice Generator | Generates advices for you  | [🔗 Link](https://advice-generator-app-frontend-mentors.netlify.app/)
