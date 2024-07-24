@@ -58,3 +58,6 @@
 [submodule "Quote-Generator"]
 	path = Quote-Generator
 	url = https://github.com/ayushyadavz/Quote-Generator
+[submodule "Add-To-Cart-App"]
+	path = Add-To-Cart-App
+	url = https://github.com/ayushyadavz/Add-To-Cart-App
