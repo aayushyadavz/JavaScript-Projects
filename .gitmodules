@@ -61,3 +61,6 @@
 [submodule "Add-To-Cart-App"]
 	path = Add-To-Cart-App
 	url = https://github.com/ayushyadavz/Add-To-Cart-App
+[submodule "frontend-mentors-advice-generator-app"]
+	path = frontend-mentors-advice-generator-app
+	url = https://github.com/ayushyadavz/frontend-mentors-advice-generator-app
