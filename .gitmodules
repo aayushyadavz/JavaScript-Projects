@@ -64,3 +64,6 @@
 [submodule "frontend-mentors-advice-generator-app"]
 	path = frontend-mentors-advice-generator-app
 	url = https://github.com/ayushyadavz/frontend-mentors-advice-generator-app
+[submodule "article-preview-component"]
+	path = article-preview-component
+	url = https://github.com/ayushyadavz/article-preview-component
