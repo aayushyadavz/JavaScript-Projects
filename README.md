@@ -27,3 +27,4 @@ This repository contains a collection of projects built using HTML, CSS, and van
 | 19  | Weather App | Check your city's weather condition | [🔗 Link](https://weather-app-javascript-fetch.netlify.app/)
 | 20  | Add to Cart | Add your items in this app which you want to remember when you to to market | [🔗 Link](https://add-to-cart-mobile-application.netlify.app/)
 | 21  | Advice Generator | Generates advices for you  | [🔗 Link](https://advice-generator-app-frontend-mentors.netlify.app/)
+| 22  | Article Preview component | You can share this article on social media  | [🔗 Link](https://my-article-card.netlify.app/)
