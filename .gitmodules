@@ -67,3 +67,6 @@
 [submodule "article-preview-component"]
 	path = article-preview-component
 	url = https://github.com/ayushyadavz/article-preview-component
+[submodule "Lead-Tracker-Mobile-App"]
+	path = Lead-Tracker-Mobile-App
+	url = https://github.com/ayushyadavz/Lead-Tracker-Mobile-App
