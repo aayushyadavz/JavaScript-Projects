@@ -28,3 +28,4 @@ This repository contains a collection of projects built using HTML, CSS, and van
 | 20  | Add to Cart | Add your items in this app which you want to remember when you to to market | [🔗 Link](https://add-to-cart-mobile-application.netlify.app/)
 | 21  | Advice Generator | Generates advices for you  | [🔗 Link](https://advice-generator-app-frontend-mentors.netlify.app/)
 | 22  | Article Preview component | You can share this article on social media  | [🔗 Link](https://my-article-card.netlify.app/)
+| 23  | Leads Tracker | Save URLs for further use  | [🔗 Link](https://leads-tracker-smartphone-app.netlify.app)
