@@ -76,3 +76,6 @@
 [submodule "interactive-rating-component"]
 	path = interactive-rating-component
 	url = https://github.com/ayushyadavz/interactive-rating-component
+[submodule "faq-accordion"]
+	path = faq-accordion
+	url = https://github.com/ayushyadavz/faq-accordion
