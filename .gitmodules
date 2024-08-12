@@ -73,3 +73,6 @@
 [submodule "Palindrome-Checker"]
 	path = Palindrome-Checker
 	url = https://github.com/ayushyadavz/Palindrome-Checker
+[submodule "interactive-rating-component"]
+	path = interactive-rating-component
+	url = https://github.com/ayushyadavz/interactive-rating-component
