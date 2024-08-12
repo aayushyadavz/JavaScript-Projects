@@ -31,3 +31,4 @@ This repository contains a collection of projects built using HTML, CSS, and van
 | 23  | Leads Tracker | Save URLs for further use  | [🔗 Link](https://leads-tracker-smartphone-app.netlify.app)
 | 24  | Accordian | FAQ Accordian  | [🔗 Link](https://faq-accordian-frontend-mentors.netlify.app/)
 | 25  | Palindrome Checker | Checks those words which are same from starting and also from last | [🔗 Link](https://palindrome-checker-freecodecamp.netlify.app/)
+| 26  | Interactive Rating Component | Give 5 star rating | [🔗 Link](https://interactive-rating-component-cards.netlify.app/)
